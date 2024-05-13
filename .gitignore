@@ -6,7 +6,7 @@ yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
-
+//7842395047973271
 /frontend/node_modules
 /node_modules
 /config
